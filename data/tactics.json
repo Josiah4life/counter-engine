@@ -1,0 +1,58 @@
+{
+    "playstyles": {
+        "Quick Counter": {
+            "name": "Quick Counter",
+            "description": "High defensive line with aggressive passing and rapid vertical transitions. Focuses on winning the ball back quickly and exploiting spaces left by the opposition.",
+            "strengths": [
+                "Possession Game",
+                "Out Wide"
+            ],
+            "vulnerabilities": [
+                "Long Ball Counter"
+            ]
+        },
+        "Possession Game": {
+            "name": "Possession Game",
+            "description": "Patient, short-passing build-up focusing on keeping the ball and controlling the tempo of the game.",
+            "strengths": [
+                "Long Ball Counter",
+                "Long Ball"
+            ],
+            "vulnerabilities": [
+                "Quick Counter"
+            ]
+        },
+        "Long Ball Counter": {
+            "name": "Long Ball Counter",
+            "description": "Deep defensive block that denies space behind, looking to hit fast counters.",
+            "strengths": [
+                "Quick Counter"
+            ],
+            "vulnerabilities": [
+                "Possession Game",
+                "Out Wide"
+            ]
+        },
+        "Out Wide": {
+            "name": "Out Wide",
+            "description": "Attacking focus down the flanks with frequent crosses into the penalty box.",
+            "strengths": [
+                "Long Ball Counter"
+            ],
+            "vulnerabilities": [
+                "Quick Counter",
+                "Long Ball"
+            ]
+        },
+        "Long Ball": {
+            "name": "Long Ball",
+            "description": "Direct, bypass-midfield playstyle aiming long passes to target forwards.",
+            "strengths": [
+                "Out Wide"
+            ],
+            "vulnerabilities": [
+                "Possession Game"
+            ]
+        }
+    }
+}
