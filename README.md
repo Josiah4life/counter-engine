@@ -41,9 +41,8 @@ python main.py
 
 ## Usuage Example
 
-========================================
-EFOOTBALL COUNTER ENGINE
-========================================
+#### EFOOTBALL COUNTER ENGINE
+
 Available Playstyles:
 
 - Quick Counter
